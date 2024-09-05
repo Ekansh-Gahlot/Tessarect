@@ -28,6 +28,6 @@ The program was able to solve the long standing problem faced by MTR Hong Kong i
 
 - OpenCV is used for capturing and manipulating the image (e.g., cropping the region of interest).
 - Tesseract is used for reading the text from that specific image region.
-- 
+
  This combination ensures high accuracy and efficiency in your text extraction process.
 
